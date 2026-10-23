@@ -1,6 +1,0 @@
-node_modules
-runtime
-web/node_modules
-web/dist
-*.log
-web/public/data.json
